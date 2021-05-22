@@ -54,4 +54,9 @@ body{
     background-color: white;
     text-decoration: none;
     color:black;
+    opacity:0.9;
+}
+
+.menu div a:hover{
+    opacity:0.6;
 }
